@@ -1,0 +1,12 @@
+Justin.tv Jtvlc by Vladislav Yazhbin <vlad@justin.tv>
+
+Release History:
+================
+
+0.41	8/10/2009	updated version
+0.4	8/07/2009	first official release
+0.3	7/31/2009	name changed to Jtvlc
+0.2a	7/20/2009	first public release of Windows and Linux binaries
+0.1a	7/16/2009	powered the officecam channel
+
+Copyright 2009, Justin.tv Inc.
